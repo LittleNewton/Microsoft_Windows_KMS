@@ -1,0 +1,92 @@
+11:18:04:634 2018.03.20 AutoPico 15.0.0.6
+Official Site: 
+http://forums.mydigitallife.info/threads/49108-KMSpico-Official-Thread
+Time Start: 2018/3/20 11:18:04
+
+11:18:04:650 Checking Internet Connection...
+11:18:04:713 Internet Connection Detected
+11:18:04:713 Synchronizing Time...
+11:18:04:863 Time synchronized
+11:18:05:434 Windows Detected: Windows 10 Pro : Professional : 6.3 : 16299.15
+11:18:05:482 Loading SECOH-QAD...
+11:18:05:494 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+11:18:05:496 Using host: 10.113.18.224:1688
+11:18:05:500 Using method: SECOH-QAD
+11:18:05:952 Opening Firewall Port...
+11:18:06:042 Opening Firewall App...
+11:18:06:175 KMSEmulator Port: 1688
+11:18:06:184 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+11:18:06:190 KMSEmulator running port: 1688
+11:18:10:073 Office 2013 Skipped
+11:18:10:073 Office 2016 Skipped
+11:18:10:073 Office 2010 Skipped
+11:18:10:075 Loading OEM Key Dumper...
+11:18:10:079 Key found on MSDM: -K4Q3V
+11:18:10:449 Installing Key: -K4Q3V
+11:18:10:722 Error: C004E016 InstallProductKey
+11:18:10:954 Found Windows Products: 1
+11:18:10:962 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, RETAIL channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: 3V66T
+GenuineStatus: 1
+
+11:18:10:975 Installing Key: -T83GX
+11:18:11:694 InstallProductKey -T83GX 0
+11:18:12:512 RefreshLicenseStatus 0
+11:18:13:100 Converting: Windows(R), Professional edition
+11:18:13:104 UnInstalling Key
+11:18:13:110 Error: C004F012 UninstallProductKey
+11:18:13:322 RefreshLicenseStatus 0
+11:18:14:277 Found Windows Products: 1
+11:18:14:287 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: T83GX
+GenuineStatus: 1
+
+11:18:14:856 DisableKeyManagementServiceHostCaching 0
+11:18:14:857 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+11:18:14:858 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+11:18:14:862 Activating Windows
+11:18:16:445 SetKeyManagementServiceMachine: 0: 10.28.136.115
+11:18:16:452 DisableKeyManagementServiceHostCaching 0
+11:18:16:454 SetVLActivationTypeEnabled 0
+11:18:16:459 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+11:18:16:460 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+11:18:17:023 Connection accepted from [::ffff:127.0.0.1]:58740
+11:18:17:078 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: DESKTOP-THFCFUR
+11:18:17:104 Sending response: v6, PID: 05426-00142-312-616826-03-2052-9200.0000-0442016, HwID: C08FED90A58F87F2
+11:18:17:203 Connection closed
+11:18:17:755 Connection accepted from [::ffff:127.0.0.1]:58748
+11:18:17:761 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: DESKTOP-THFCFUR
+11:18:17:763 Sending response: v6, PID: 03612-00168-313-515767-03-2052-10240.0000-3382015, HwID: BFFD6F20DE54D006
+11:18:17:770 Connection closed
+11:19:10:094 Windows(R), Professional edition Activated 0
+11:19:10:742 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+11:19:10:744 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+11:19:10:748 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+11:19:10:750 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+11:19:10:755 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+11:19:10:757 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+11:19:10:758 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+11:19:10:762 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+11:19:10:763 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+11:19:10:768 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+11:19:10:770 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+11:19:10:771 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+11:19:10:776 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+11:19:10:778 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+11:19:10:780 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+11:19:10:785 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+11:19:10:792 ClearKeyManagementServiceMachine 0
+11:19:10:797 ClearKeyManagementServicePort 0
+11:19:10:886 Closing Firewall Port...
+11:19:11:034 Closing Firewall App...
+11:19:11:103 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+11:19:13:286 Unloading SECOH-QAD...
+11:19:13:286 Client listener shut down
+11:19:13:288 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+11:19:13:295 Killing: SECOH-QAD
