@@ -1,50 +1,56 @@
-¡¾±ãĞ¯°æÔËĞĞ¡¿
-1. ¹ÜÀíÔ±Éí·İÔËĞĞ Auto.cmd¡¢Autopico.exe
-2. Íê³É.
+# 1. ä¾¿æºç‰ˆè¿è¡Œ
+(1) ç®¡ç†å‘˜èº«ä»½è¿è¡Œ Auto.cmdã€Autopico.exe
+(2) å®Œæˆ.
 
-¡¾¿ÉÒÔ¼¤»î¡¿
-    Windows 10 ËùÓĞ°æ
-    Office 2010/2013/2016
-    Windows 8 ¡¢Windows 8.1 ËùÓĞ°æ
-    Windows Server 2016 (Theorically)
-    Windows 7 Professional/N/Enterprise/N ×¨Òµ°æ¡¢ÆóÒµ°æ
-    
-    Windows Vista Business/N/Enterprise/N ÉÌÒµ°æ¡¢ÆóÒµ°æ
-    Windows Server Technical Preview Build 9841/9860/9926 ËùÓĞ°æ±¾
-    Windows Server 2008/2008R2 Standard/Datacenter/Enterprise ±ê×¼°æ/Êı¾İÖĞĞÄ°æ/ÆóÒµ°æ
-    Windows Server 2012/2012R2 Standard/Datacenter/Enterprise ±ê×¼°æ/Êı¾İÖĞĞÄ°æ/ÆóÒµ°æ
+# 2. å¯ä»¥æ¿€æ´»
+ã€€ã€€Windows 10 æ‰€æœ‰ç‰ˆ
+ã€€ã€€Office 2010/2013/2016
+ã€€ã€€Windows 8 ã€Windows 8.1 æ‰€æœ‰ç‰ˆ
+ã€€ã€€Windows Server 2016 (Theorically)
+ã€€ã€€Windows 7 Professional/N/Enterprise/N ä¸“ä¸šç‰ˆã€ä¼ä¸šç‰ˆ
 
+ã€€ã€€Windows Vista Business/N/Enterprise/N å•†ä¸šç‰ˆã€ä¼ä¸šç‰ˆ
+ã€€ã€€Windows Server Technical Preview Build 9841/9860/9926 æ‰€æœ‰ç‰ˆæœ¬
+ã€€ã€€Windows Server 2008/2008R2 Standard/Datacenter/Enterprise æ ‡å‡†ç‰ˆ/æ•°æ®ä¸­å¿ƒç‰ˆ/ä¼ä¸šç‰ˆ
+ã€€ã€€Windows Server 2012/2012R2 Standard/Datacenter/Enterprise æ ‡å‡†ç‰ˆ/æ•°æ®ä¸­å¿ƒç‰ˆ/ä¼ä¸šç‰ˆ
 
-¡¾Ê¹ÓÃ·½·¨¡¿
-#Win7Ğè×° .NET 4.0£¬Win8ÒÔÉÏÏµÍ³ÔòÎŞĞè
-1¡¢Ê×´Î¹ÜÀíÔ±Éí·İÔËĞĞ"Ğ¶ÔØ·şÎñ.bat"Çå³ı·şÎñ£»
-2¡¢ÏµÍ³¹ÜÀíÔ±Éí·İÔËĞĞKMSpico_setup.exe°²×°£»
-3¡¢ÄÍĞÄµÈ´ı£¨°²×°Íê¼´¿É×Ô¶¯¼¤»î£¡£©
+# 3. ä½¿ç”¨æ–¹æ³•
 
-¡¾¾²Ä¬²ÎÊı¡¿
+ã€€ã€€#Win7éœ€è£… .NET 4.0ï¼ŒWin8ä»¥ä¸Šç³»ç»Ÿåˆ™æ— éœ€
+ã€€ã€€1ã€é¦–æ¬¡ç®¡ç†å‘˜èº«ä»½è¿è¡Œ"å¸è½½æœåŠ¡.bat"æ¸…é™¤æœåŠ¡ï¼›
+ã€€ã€€2ã€ç³»ç»Ÿç®¡ç†å‘˜èº«ä»½è¿è¡ŒKMSpico_setup.exeå®‰è£…ï¼›
+ã€€ã€€3ã€è€å¿ƒç­‰å¾…ï¼ˆå®‰è£…å®Œå³å¯è‡ªåŠ¨æ¿€æ´»ï¼ï¼‰
+
+# 4.é™é»˜å‚æ•°
+```
 KMSpico.exe /silent
+```
 
-¡¾Ê¹ÓÃ½¨Òé¡¿
--Èç¹ûÉ±¶¾Èí¼ş±¨¶¾£¬Çë°Ñ°²×°Ä¿Â¼ÒÔÏÂÎÄ¼ş¼ÓÈë°×Ãûµ¥»òÅÅ³ıÏî£»
-%ProgramFiles%\KMSpico\KMSELDI.exe, Service_KMS.exe, Autopico.exe 
-W10TP/8.1/2012R/ServerTP ÏµÍ³µÄÎÄ¼şÎª   %WinDir%\SECOH-QAD.exe.
+# 5. ä½¿ç”¨å»ºè®®
 
-- ³ö´íÇé¿öÏÂ£¬½¨Òé¼ì²éÈÕÖ¾ ÎÄ¼ş
-Program Files -> KMSpico -> logs
-- Í¨³£¶¼ÊÇÊ¹ÓÃ¹ıÅúÁ¿Ğí¿ÉÃÜÔ¿µ¼ÖÂ.
+- å¦‚æœæ€æ¯’è½¯ä»¶æŠ¥æ¯’ï¼Œè¯·æŠŠå®‰è£…ç›®å½•ä»¥ä¸‹æ–‡ä»¶åŠ å…¥ç™½åå•æˆ–æ’é™¤é¡¹ï¼›
 
-1¡¢¹ØÓÚÓÀ¾Ã¼¤»î
-ÎÊ£ºÕâÊÇÓÀ¾Ã¼¤»îµÄÂğ£¿
-´ğ£ºµ±È»£¬Ò»Ö±¶¼ÊÇWin7,8,8.1,10ËùÓĞ°æ±¾
+```%ProgramFiles%\KMSpico\KMSELDI.exe, Service_KMS.exe, Autopico.exe```
+```W10TP/8.1/2012R/ServerTP```ç³»ç»Ÿçš„æ–‡ä»¶ä¸º```%WinDir%\SECOH-QAD.exe.```
 
-2¡¢Pro WMC/ºËĞÄ°æ
-Q: ËüÖ»ÄÜ¼¤»î30Ìì»ò45Ìì£¿
-A: KMS²»¿ÉÄÜÕæÕıµÄ¼¤»îPro WMC/Core,µ«¿ÉÄ£Äâ¼¤»îÎªWin8.1¿ÉÄÜ30Ìì»ò45Ìì
+- å‡ºé”™æƒ…å†µä¸‹ï¼Œå»ºè®®æ£€æŸ¥æ—¥å¿—æ–‡ä»¶
+```Program Files``` -> ```KMSpico``` -> ```logs```
+- é€šå¸¸éƒ½æ˜¯ä½¿ç”¨è¿‡æ‰¹é‡è®¸å¯å¯†é’¥å¯¼è‡´.
 
-3¡¢¹ØÓÚ¼¤»îÁªÍø
-ÎÊ£ºĞèÒªÁ¬½ÓÍøÂçÂğ£¿
-´ğ£º²»ĞèÒª£¡
+# 6. FAQ
 
-ÊÓÆµÊ¹ÓÃÑİÊ¾:
-http://www.youtube.com/watch?feature=player_embedded&v=RFdhz4OZDxc
-http://www.youtube.com/watch?feature=player_embedded&v=KGtMCLiBPVI# Microsoft_Windows_KMS
+## 1. å…³äºæ°¸ä¹…æ¿€æ´»
+é—®ï¼šè¿™æ˜¯æ°¸ä¹…æ¿€æ´»çš„å—ï¼Ÿ
+ç­”ï¼šå½“ç„¶ï¼Œä¸€ç›´éƒ½æ˜¯Win7,8,8.1,10æ‰€æœ‰ç‰ˆæœ¬
+
+## 2. Pro WMC/æ ¸å¿ƒç‰ˆ
+Q: å®ƒåªèƒ½æ¿€æ´»30å¤©æˆ–45å¤©ï¼Ÿ
+A: KMSä¸å¯èƒ½çœŸæ­£çš„æ¿€æ´»Pro WMC/Core,ä½†å¯æ¨¡æ‹Ÿæ¿€æ´»ä¸ºWin8.1å¯èƒ½30å¤©æˆ–45å¤©
+
+## 3. å…³äºæ¿€æ´»è”ç½‘
+é—®ï¼šéœ€è¦è¿æ¥ç½‘ç»œå—ï¼Ÿ
+ç­”ï¼šä¸éœ€è¦ï¼
+
+# 7.è§†é¢‘ä½¿ç”¨æ¼”ç¤º
+ã€€ã€€[ğŸ”´åœ°å€AğŸ”´](http://www.youtube.com/watch?feature=player_embedded&v=RFdhz4OZDxc)
+ã€€ã€€[ğŸ”´åœ°å€BğŸ”´](http://www.youtube.com/watch?feature=player_embedded&v=KGtMCLiBPVI#)
