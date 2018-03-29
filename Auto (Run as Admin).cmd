@@ -11,6 +11,3 @@ set name="AutoPico Daily Restart"
 SCHTASKS /Create /TN %name% /TR "%directorio%AutoPico.exe /silent" /SC DAILY /ST 23:59:59 /RU SYSTEM /RL Highest /F
 popd
 exit
-
-
-
